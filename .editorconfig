@@ -1,0 +1,13 @@
+root = true
+
+[*]
+charset = utf-8
+
+[*.cs]
+# 核心：左大括号不换行 (K&R 风格)
+csharp_new_line_before_open_brace = none
+
+# 推荐同时关闭 else, catch, finally 的换行，保持风格统一
+csharp_new_line_before_else = false
+csharp_new_line_before_catch = false
+csharp_new_line_before_finally = false

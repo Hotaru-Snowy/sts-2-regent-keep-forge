@@ -1,0 +1,11 @@
+{
+  "id": "sts-2-regent-keep-forge",
+  "name": "储君保存铸剑",
+  "author": "草之爹",
+  "description": "允许储君跨战斗保留铸剑",
+  "version": "v1.0.0",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": true
+}
