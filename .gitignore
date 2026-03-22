@@ -1,0 +1,13 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+export_presets.cfg
+*.import
+
+# STS2 dll libs
+.libs/
+*.pck
+
+# System file
+.DS_Store
+Thumbs.db
